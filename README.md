@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A final year student in Software Development at ATU</h3>
 
+- 🔭 I’m currently working on [Bike-Mate](https://github.com/AdamGallagher339/bike-mate)
+
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdamGallagher339](https://github.com/AdamGallagher339)
+- 🤝 I recently helped with [TuneUp](https://github.com/AdamGallagher339/TuneUp)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AdamGallagher339?tab=repositories](https://github.com/AdamGallagher339?tab=repositories)
 
 - 💬 Ask me about **Java, C++ or JavaScript.**
 
