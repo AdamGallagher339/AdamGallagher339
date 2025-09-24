@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bike-Mate](https://github.com/AdamGallagher339/bike-mate)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and LaTeX**
 
 - 🤝 I recently helped with [TuneUp](https://github.com/AdamGallagher339/TuneUp)
 
