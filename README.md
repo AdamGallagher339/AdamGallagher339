@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, C++ or JavaScript.**
 
-- 📫 How to reach me **G00413950@atu.ie**
+- 📫 How to reach me **software.gallagher@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adam-gallagher-galway](https://www.linkedin.com/in/adam-gallagher-galway)
 
