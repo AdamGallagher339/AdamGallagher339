@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **software.gallagher@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adam-gallagher-galway](https://www.linkedin.com/in/adam-gallagher-galway)
+- 📄 Know about my experiences [Indeed](https://www.linkedin.com/in/adam-gallagher-galway)
 
 - ⚡ Fun fact **I love motorcycles**
 
