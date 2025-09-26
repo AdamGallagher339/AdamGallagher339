@@ -7,7 +7,7 @@
 
 - 🤝 I recently helped with [TuneUp](https://github.com/AdamGallagher339/TuneUp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdamGallagher339?tab=repositories](https://github.com/AdamGallagher339?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/AdamGallagher339?tab=repositories)
 
 - 💬 Ask me about **Java, C++ or JavaScript.**
 
