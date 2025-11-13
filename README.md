@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A final year student in Software Development at ATU</h3>
 
-- 🔭 I’m currently working on an all inclusive app for a volinteer group called Bloodbikes West [Codename: Blood](https://github.com/AdamGallagher339/Codename-Blood)
+- 🔭 I’m currently working on an all inclusive app for a volunteer group called Bloodbikes West [Codename: Blood](https://github.com/AdamGallagher339/Codename-Blood)
 
 - 🌱 I’m currently learning **Python and LaTeX**
 
