@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an all inclusive app for a volunteer group called Bloodbikes West [Codename: Blood](https://github.com/AdamGallagher339/Codename-Blood)
 
-- 🌱 I’m currently learning **Python and LaTeX**
+- 🌱 I’m currently learning **Python and GoLang**
 
 - 🤝 I recently helped with [TuneUp](https://github.com/AdamGallagher339/TuneUp)
 
