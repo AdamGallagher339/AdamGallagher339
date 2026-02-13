@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A final year student in Software Development at ATU</h3>
 
-Think I could be a fit for your team? [Resume](https://github.com/AdamGallagher339)
+Think I could be a fit for your team? [Resume](https://adamgallagher339.github.io/DEV-CV/)
 
-- 🔭 I’m currently working on an all inclusive app for a volunteer group called Bloodbikes West [Codename: Blood](https://adamgallagher339.github.io/DEV-CV/)
+- 🔭 I’m currently working on an all inclusive app for a volunteer group called Bloodbikes West [Codename: Blood](https://github.com/AdamGallagher339/Final-Year-Group-Project.git)
 
 - 🌱 I’m currently learning **Python and GoLang**
 
