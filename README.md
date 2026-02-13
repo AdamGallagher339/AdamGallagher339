@@ -3,7 +3,7 @@
 
 Think I could be a fit for your team? [Resume](https://github.com/AdamGallagher339)
 
-- 🔭 I’m currently working on an all inclusive app for a volunteer group called Bloodbikes West [Codename: Blood](https://github.com/AdamGallagher339/Codename-Blood)
+- 🔭 I’m currently working on an all inclusive app for a volunteer group called Bloodbikes West [Codename: Blood](https://adamgallagher339.github.io/DEV-CV/)
 
 - 🌱 I’m currently learning **Python and GoLang**
 
