@@ -3,7 +3,7 @@
 
 Think I could be a fit for your team? [Resume](https://adamgallagher339.github.io/DEV-CV/)
 
-- 🔭 I’m currently working on **ParishSoft** from Ministry Brands, a church management system (ChMS)
+- 🔭 I’m currently working on **ParishSoft** from Ministry Brands
 
 - 🌱 I’m currently learning **Python and GoLang**
 
