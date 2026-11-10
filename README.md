@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A final year student in Software Development at ATU</h3>
+<h3 align="center">Software Engineer at Ministry Brands | Software Development graduate from ATU</h3>
 
 Think I could be a fit for your team? [Resume](https://adamgallagher339.github.io/DEV-CV/)
 
@@ -15,7 +15,7 @@ Think I could be a fit for your team? [Resume](https://adamgallagher339.github.i
 
 - 📫 How to reach me **software.gallagher@gmail.com**
 
-- 📄 Know about my experiences [Indeed](https://www.linkedin.com/in/adam-gallagher-galway)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/adam-gallagher-galway)
 
 - ⚡ Fun fact **I love motorcycles**
 
